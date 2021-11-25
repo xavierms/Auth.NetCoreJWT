@@ -1,0 +1,17 @@
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\bin\Debug\netcoreapp2.1\Auth.Demo.deps.json
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\bin\Debug\netcoreapp2.1\Auth.Demo.runtimeconfig.json
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\bin\Debug\netcoreapp2.1\Auth.Demo.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\bin\Debug\netcoreapp2.1\Auth.Demo.dll
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\bin\Debug\netcoreapp2.1\Auth.Demo.pdb
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\obj\Debug\netcoreapp2.1\Auth.Demo.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\obj\Debug\netcoreapp2.1\Auth.Demo.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\obj\Debug\netcoreapp2.1\Auth.Demo.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\obj\Debug\netcoreapp2.1\Auth.Demo.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\obj\Debug\netcoreapp2.1\Auth.Demo.RazorAssemblyInfo.cache
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\obj\Debug\netcoreapp2.1\Auth.Demo.RazorAssemblyInfo.cs
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\obj\Debug\netcoreapp2.1\Auth.Demo.RazorTargetAssemblyInfo.cache
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\obj\Debug\netcoreapp2.1\Auth.Demo.dll
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\obj\Debug\netcoreapp2.1\Auth.Demo.pdb
+C:\Users\x.mejia\source\repos\Auth.Demo\Auth.Demo\obj\Debug\netcoreapp2.1\Auth.Demo.genruntimeconfig.cache
